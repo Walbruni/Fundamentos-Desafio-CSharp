@@ -1,0 +1,14 @@
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\bin\Debug\net8.0\Fundamentos-Desafio-CSharp.exe
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\bin\Debug\net8.0\Fundamentos-Desafio-CSharp.deps.json
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\bin\Debug\net8.0\Fundamentos-Desafio-CSharp.runtimeconfig.json
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\bin\Debug\net8.0\Fundamentos-Desafio-CSharp.dll
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\bin\Debug\net8.0\Fundamentos-Desafio-CSharp.pdb
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\Fundamentos-Desafio-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\Fundamentos-Desafio-CSharp.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\Fundamentos-Desafio-CSharp.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\Fundamentos-Desafio-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\Fundamentos-Desafio-CSharp.dll
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\refint\Fundamentos-Desafio-CSharp.dll
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\Fundamentos-Desafio-CSharp.pdb
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\Fundamentos-Desafio-CSharp.genruntimeconfig.cache
+C:\Users\Cliente\Documents\Fundamentos-Desafio-CSharp\obj\Debug\net8.0\ref\Fundamentos-Desafio-CSharp.dll
